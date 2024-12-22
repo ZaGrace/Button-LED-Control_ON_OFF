@@ -10,6 +10,8 @@ This Arduino project allows you to control an LED using a button. The LED starts
 - Resistor (220Ω for LED)  
 
 ## Wiring
+![image](https://github.com/user-attachments/assets/3d770e1f-540a-43b9-9bf3-a27b7dc21a7a)
+
 - **Button Pin 1**: GND  
 - **Button Pin 2**: Pin 8 (Digital Input)  
 - **LED Anode**: Pin 9 (Digital Output)  
