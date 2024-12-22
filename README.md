@@ -22,7 +22,7 @@ This Arduino project allows you to control an LED using a button. The LED starts
 4. The LED starts in the **OFF** state and toggles with each button press.
 
 ## Code
-See the [Button_LED_Control_OnPressed.ino](./Button_LED_Control_OnPressed.ino) file for the full code.
+See [the [Button_LED_Control_OnPressed.ino](./Button_LED_Control_OnPressed.ino) file](https://github.com/ZaGrace/Button-LED-Control_ON_OFF/blob/main/LED-Button-Control.ino) for the full code.
 
 ```cpp
 const int buttonPin = 8;  // Button connected to pin 8
